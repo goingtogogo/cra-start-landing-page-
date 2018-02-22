@@ -4,12 +4,12 @@ My own pack for quick start simple apps, landing pages implementing with create-
 
 ### What I've "yarn add"
 
-* [Create React App](https://github.com/facebookincubator/create-react-app)
-* [React router](https://github.com/ReactTraining/react-router)
-* [Prop Types](https://github.com/facebook/prop-types)
-* [whatwg-fetch](https://github.com/github/fetch)
+* [Create React App](https://github.com/facebookincubator/create-react-app) ⚛️
+* [React router](https://github.com/ReactTraining/react-router)🚀
+* [Prop Types](https://github.com/facebook/prop-types)🛠
+* [whatwg-fetch](https://github.com/github/fetch)📩
 * [Styled Components](https://github.com/styled-components/styled-components) 💅
-* [normalize.css](https://github.com/necolas/normalize.css/)
+* [normalize.css](https://github.com/necolas/normalize.css/)👱‍♀️
 
 ### Dev tools:
 
