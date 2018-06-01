@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Header = () => <div>Верх</div>;
-
-export default Header;
+export default function () {
+  return <div>Header</div>;
+}
